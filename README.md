@@ -1,2 +1,3 @@
 # KELOMPOK-6-RPL-5C-2026
-belum ada
+Tema Proyek : Sistem Izin Masuk Perpustakaan Menggunakan RFID
+
